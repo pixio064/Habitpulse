@@ -1,0 +1,6 @@
+{
+  "name": "HabitPulse",
+  "description": "Custom interval reminder app to drink water, stretch, study, take breaks, and build mindful habits with flexible scheduling and tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
